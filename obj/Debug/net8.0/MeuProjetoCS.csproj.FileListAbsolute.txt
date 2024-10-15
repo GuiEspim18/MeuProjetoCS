@@ -1,0 +1,14 @@
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\bin\Debug\net8.0\MeuProjetoCS.exe
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\bin\Debug\net8.0\MeuProjetoCS.deps.json
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\bin\Debug\net8.0\MeuProjetoCS.runtimeconfig.json
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\bin\Debug\net8.0\MeuProjetoCS.dll
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\bin\Debug\net8.0\MeuProjetoCS.pdb
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\MeuProjetoCS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\MeuProjetoCS.AssemblyInfoInputs.cache
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\MeuProjetoCS.AssemblyInfo.cs
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\MeuProjetoCS.csproj.CoreCompileInputs.cache
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\MeuProjetoCS.dll
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\refint\MeuProjetoCS.dll
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\MeuProjetoCS.pdb
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\MeuProjetoCS.genruntimeconfig.cache
+c:\Users\6128094\OneDrive - Thomson Reuters Incorporated\Desktop\MeuProjetoCS\MeuProjetoCS\obj\Debug\net8.0\ref\MeuProjetoCS.dll
